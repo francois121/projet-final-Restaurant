@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Chewy', cursive;
+}
+.back1{
+    background-image: url(/assets/img/resto1.jpg);
+    background-size: cover ;
+}
+.text-center{
+    padding-top: 1em;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.gris{
+    background-color: dimgrey;
+}
+p{
+    text-align: center;
+    color: white;
+}
+.secti{
+    background-color: black;
+    background-image: url(/assets/img/testbg02.png);
+    background-position: left right;
+}
+.embed-responsive{
+    margin-top: 2em;
+}
+.back2{
+    background-color: black;
+    margin-top: 0em;
+}
+.back3{
+    background-color: black;
+    margin-top: 1em;
+}
+.box1{
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+    background-color: black;
+    margin-top: 1em;
+}
+.empty{
+    border-top: 1px solid white;
+    width: 50%;
+    margin: 2em auto;
+}
+.back-bor{
+    border: solid 2px #e5e5e5;
+    
+    text-align: center;
+}
+.lefooter a {
+    display: inline;
+}
+.lefooter ul {
+    display: inline;
+}
+.lefooter ul li {
+    display: inline;
+    padding-left: 3em;
+}
+.lefooter{
+    background-color: #343a40;
+    text-align: center;
+}
+li{   
+    font-family: 'Chewy', cursive;
+}
+.btn-warning{
+    background-position: center;
+    margin-left: 12%;
+}
+.nav-link{
+    color: white;
+}
+.lefooter{
+    padding-bottom: 2em;
+}
+h4{
+    color: goldenrod;
+    text-align: center;
+}
+tr {
+    background-color: black;
+    color: white;
+}
+.dash{
+    border-top: dashed white 2px;
+    margin: 0 4em 0 4em;
+}
+.badge-secondary{
+    color: orange;
+}
+.back6{
+    background-image: url(/assets/img/cuisto.jpg.png);
+    background-position: center;
+    background-size: cover;
+}
+.back7{
+    background-color: white;
+    box-shadow: 0px 0px 05px 0px rgb(255, 255, 255);
+    opacity: 70%;
+    border-radius: 20px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.black{
+    color: black;
+    text-align: left;
+    padding-left: 2em;
+}
+.gris7{
+    background-image: url(/assets/img/resto1.jpg);
+    background-size: cover;
+}
+.maps1{
+    opacity: 200%;
+    margin-bottom: 2em;
+    background-size: cover;
+    box-shadow: 1px 6px 31px 15px rgba(0,0,0,1)
+}
+.titremaps1{
+    font-size: 2em;
+    color: orange;
+    text-align: center;
+}
+h6{
+    text-align: center;
+    padding-bottom: 2em;
+}
+.back8{
+    background-color: white;
+    box-shadow: 17px 18px 31px 15px rgba(0,0,0,1);   
+    border-radius: 20px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    opacity: 85%;
+}
+.btn-primary{
+    margin-left: 37%;
+    margin-bottom: 1em;
+}
+.box5{
+    margin-bottom: 2em;
+}
+
